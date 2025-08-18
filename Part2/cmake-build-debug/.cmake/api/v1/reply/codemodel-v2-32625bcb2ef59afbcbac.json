@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Part2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Part2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Part2-Debug-f326c1d28a9ad7d4d7d2.json",
+					"name" : "Part2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/etayzerachowitz/Documents/\u05d0\u05d9\u05ea\u05d9 - \u05db\u05dc\u05dc\u05d9/Projects/SuperMarket/Part2/cmake-build-debug",
+		"source" : "/Users/etayzerachowitz/Documents/\u05d0\u05d9\u05ea\u05d9 - \u05db\u05dc\u05dc\u05d9/Projects/SuperMarket/Part2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
