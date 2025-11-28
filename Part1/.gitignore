@@ -1,0 +1,17 @@
+# CLion / IntelliJ
+.idea/
+cmake-build-debug/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build artifacts
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
