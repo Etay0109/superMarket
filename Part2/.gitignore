@@ -1,0 +1,12 @@
+# CLion
+.idea/
+
+# Build outputs
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Mac files
+.DS_Store
